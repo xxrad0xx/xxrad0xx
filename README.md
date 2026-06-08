@@ -81,7 +81,7 @@ const raul = {
 Landing page for web services, focused on conversion, responsive design and modern visual presentation.
 
 **Tech:** HTML • CSS • JavaScript
-**Live:** https://programmers-loft.vercel.app/
+**Live:** [https://programmers-loft.vercel.app/](https://programersloftstudio.vercel.app/)
 
 ---
 
