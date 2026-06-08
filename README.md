@@ -81,7 +81,7 @@ const raul = {
 Landing page for web services, focused on conversion, responsive design and modern visual presentation.
 
 **Tech:** HTML • CSS • JavaScript
-**Live:** [https://programmers-loft.vercel.app/](https://programersloftstudio.vercel.app/)
+**Live:** https://programmers-loft.vercel.app/
 
 ---
 
@@ -110,26 +110,27 @@ SaaS platform for bus cooperatives, including route management, ticket sales and
 
 ---
 
+## 📊 GitHub activity
 
-## 📊 GitHub stats
+```bash
+~ $ github-summary --user xxrad0xx
+```
+
+```txt
+> Contributions: active profile
+> Main focus: Frontend Development + UX/UI
+> Core stack: Angular • React • TypeScript
+> Public work: Portfolio • Programmers Loft • SmartBite • Ruta593
+```
 
 <p align="center">
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=xxrad0xx&show_icons=true&hide_border=true&theme=dark&bg_color=020617&title_color=4ade80&text_color=e5e7eb&icon_color=22d3ee&include_all_commits=true&count_private=true" 
-    alt="Raul Ortiz GitHub stats" 
-  />
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxrad0xx&layout=compact&hide_border=true&theme=dark&bg_color=020617&title_color=4ade80&text_color=e5e7eb" 
-    alt="Raul Ortiz most used languages" 
-  />
+  <img src="https://img.shields.io/badge/TypeScript-main%20language-020617?style=for-the-badge&logo=typescript&logoColor=60a5fa&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Angular-web%20apps-020617?style=for-the-badge&logo=angular&logoColor=ff4d4d&labelColor=020617" />
+  <img src="https://img.shields.io/badge/React-ui%20interfaces-020617?style=for-the-badge&logo=react&logoColor=22d3ee&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Figma-ux%2Fui%20design-020617?style=for-the-badge&logo=figma&logoColor=a855f7&labelColor=020617" />
 </p>
 
-
-
 ---
-
 
 ## 🔥 Contribution streak
 
@@ -139,8 +140,6 @@ SaaS platform for bus cooperatives, including route management, ticket sales and
     alt="Raul Ortiz GitHub contribution streak" 
   />
 </p>
-
-
 
 ---
 
