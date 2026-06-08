@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:052e2b,100:0f172a&height=140&section=header&text=Raul%20Ortiz&fontSize=42&fontColor=4ade80&animation=fadeIn&fontAlignY=42&desc=%7E%20%24%20run%20portfolio.sh%20%E2%80%94%20Frontend%20Developer%20%7C%20UX%2FUI%20Designer&descAlignY=68&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:052e2b,100:0f172a&height=150&section=header&text=Raul%20Ortiz&fontSize=44&fontColor=4ade80&animation=fadeIn&fontAlignY=42&desc=%7E%20%24%20run%20portfolio.sh%20%E2%80%94%20Frontend%20Developer%20%7C%20UX%2FUI%20Designer&descAlignY=68&descSize=16" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=4ADE80&center=true&vCenter=true&width=900&lines=%7E+%24+run+portfolio.sh+--ready;Frontend+Developer+%7C+UX%2FUI+Designer;Angular+%E2%80%A2+React+%E2%80%A2+TypeScript;Clean+UI+%E2%80%A2+Responsive+Design+%E2%80%A2+Real-world+apps" />
@@ -22,7 +22,7 @@ Angular • React • TypeScript • JavaScript • HTML • CSS • Figma
 
 ---
 
-## 🧠 About me
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=About%20Me&fontSize=32&fontColor=4ade80&animation=fadeIn&desc=%7E%20%24%20cat%20profile.ts&descSize=16&descAlignY=75&descColor=22d3ee" width="100%" />
 
 ```ts
 const raul = {
@@ -47,7 +47,7 @@ const raul = {
 
 ---
 
-## ⚡ Tech stack
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Tech%20Stack&fontSize=32&fontColor=22d3ee&animation=fadeIn&desc=Angular%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Figma&descSize=16&descAlignY=75&descColor=4ade80" width="100%" />
 
 ### Frontend
 
@@ -70,7 +70,7 @@ const raul = {
 
 ---
 
-## 📌 Featured projects
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Featured%20Projects&fontSize=32&fontColor=a855f7&animation=fadeIn&desc=%7E%20%24%20ls%20featured-projects&descSize=16&descAlignY=75&descColor=22d3ee" width="100%" />
 
 ```bash
 ~ $ ls featured-projects
@@ -110,18 +110,23 @@ SaaS platform for bus cooperatives, including route management, ticket sales and
 
 ---
 
-## 📊 GitHub activity
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=GitHub%20Activity&fontSize=32&fontColor=4ade80&animation=fadeIn&desc=%7E%20%24%20github-summary%20--user%20xxrad0xx&descSize=16&descAlignY=75&descColor=22d3ee" width="100%" />
 
 ```bash
-~ $ github-summary --user xxrad0xx
+~ $ github-summary --user xxrad0xx --style terminal
 ```
 
 ```txt
-> Contributions: active profile
-> Main focus: Frontend Development + UX/UI
+> Status: active developer profile
+> Main focus: Frontend Development + UX/UI Design
 > Core stack: Angular • React • TypeScript
 > Public work: Portfolio • Programmers Loft • SmartBite • Ruta593
+> Current mode: building, improving and shipping real-world interfaces
 ```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Tracking+frontend+growth...;Improving+UI%2FUX+systems...;Building+real-world+projects...;Shipping+clean+and+responsive+interfaces..." />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-main%20language-020617?style=for-the-badge&logo=typescript&logoColor=60a5fa&labelColor=020617" />
@@ -130,9 +135,16 @@ SaaS platform for bus cooperatives, including route management, ticket sales and
   <img src="https://img.shields.io/badge/Figma-ux%2Fui%20design-020617?style=for-the-badge&logo=figma&logoColor=a855f7&labelColor=020617" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20UI-4ade80?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-22d3ee?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/API%20Integration-a855f7?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Web%20Performance-facc15?style=for-the-badge&labelColor=020617" />
+</p>
+
 ---
 
-## 🔥 Contribution streak
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Contribution%20Streak&fontSize=32&fontColor=22d3ee&animation=fadeIn&desc=Consistency%20%7C%20Practice%20%7C%20Progress&descSize=16&descAlignY=75&descColor=4ade80" width="100%" />
 
 <p align="center">
   <img 
@@ -141,9 +153,13 @@ SaaS platform for bus cooperatives, including route management, ticket sales and
   />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:052e2b,100:0f172a&height=4&section=footer" width="80%" />
+</p>
+
 ---
 
-## 🧩 Current focus
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Current%20Focus&fontSize=32&fontColor=facc15&animation=fadeIn&desc=%7E%20%24%20cat%20current-focus.txt&descSize=16&descAlignY=75&descColor=4ade80" width="100%" />
 
 ```bash
 ~ $ cat current-focus.txt
@@ -158,7 +174,7 @@ SaaS platform for bus cooperatives, including route management, ticket sales and
 
 ---
 
-## 🌐 Connect with me
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Connect%20With%20Me&fontSize=32&fontColor=22d3ee&animation=fadeIn&desc=%7E%20%24%20open%20links&descSize=16&descAlignY=75&descColor=a855f7" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raulortizdev">
