@@ -1,82 +1,144 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6366F1,100:A855F7&height=180&section=header&text=Raul%20Ortiz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UX%2FUI%20Designer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:052e2b,100:0f172a&height=140&section=header&text=Raul%20Ortiz&fontSize=42&fontColor=4ade80&animation=fadeIn&fontAlignY=42&desc=%7E%20%24%20run%20portfolio.sh%20%E2%80%94%20Frontend%20Developer%20%7C%20UX%2FUI%20Designer&descAlignY=68&descSize=16" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Frontend+Developer+%26+UX%2FUI+Designer;Building+modern%2C+responsive+and+user-centered+web+apps;Angular+%E2%80%A2+React+%E2%80%A2+TypeScript;Clean+UI+%E2%80%A2+UX%2FUI+%E2%80%A2+Responsive+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=4ADE80&center=true&vCenter=true&width=900&lines=%7E+%24+run+portfolio.sh+--ready;Frontend+Developer+%7C+UX%2FUI+Designer;Angular+%E2%80%A2+React+%E2%80%A2+TypeScript;Clean+UI+%E2%80%A2+Responsive+Design+%E2%80%A2+Real-world+apps" />
 </p>
 
 ---
 
-## 👋 Hi, I'm Raul Ortiz
+```bash
+~ $ whoami
+Raul Ortiz
 
-I'm a **Frontend Developer & UX/UI Designer** from Ecuador, focused on building modern, responsive and user-centered web applications.
+~ $ role
+Frontend Developer & UX/UI Designer
 
-I enjoy creating clean interfaces, intuitive user experiences and digital products that solve real problems.
+~ $ focus
+Building modern, responsive and user-centered web applications.
 
----
-
-## 🚀 About me
-
-- 🎓 Software Engineering student
-- 💻 Focused on Frontend Development and UX/UI Design
-- 🎨 Interested in clean UI, responsive layouts and product design
-- ⚙️ Building projects with Angular, React and TypeScript
-- 🌱 Currently improving my skills in frontend architecture, UI design and web performance
+~ $ stack
+Angular • React • TypeScript • JavaScript • HTML • CSS • Figma
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About me
+
+```ts
+const raul = {
+  location: "Ambato, Ecuador",
+  role: "Frontend Developer & UX/UI Designer",
+  education: "Software Engineering Student",
+  focus: [
+    "Clean and responsive interfaces",
+    "UX/UI design",
+    "Web applications",
+    "Dashboards and admin panels",
+    "API integration"
+  ],
+  currentlyLearning: [
+    "Frontend architecture",
+    "UI systems",
+    "Web performance",
+    "Modern development workflows"
+  ]
+};
+```
+
+---
+
+## ⚡ Tech stack
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-0f172a?style=for-the-badge&logo=angular&logoColor=DD0031)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Angular](https://img.shields.io/badge/Angular-020617?style=for-the-badge\&logo=angular\&logoColor=ff4d4d)
+![React](https://img.shields.io/badge/React-020617?style=for-the-badge\&logo=react\&logoColor=22d3ee)
+![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=for-the-badge\&logo=typescript\&logoColor=60a5fa)
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge\&logo=javascript\&logoColor=facc15)
+![HTML5](https://img.shields.io/badge/HTML5-020617?style=for-the-badge\&logo=html5\&logoColor=fb7185)
+![CSS3](https://img.shields.io/badge/CSS3-020617?style=for-the-badge\&logo=css3\&logoColor=38bdf8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-020617?style=for-the-badge\&logo=tailwindcss\&logoColor=22d3ee)
+
+### Design & tools
+
+![Figma](https://img.shields.io/badge/Figma-020617?style=for-the-badge\&logo=figma\&logoColor=a855f7)
+![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge\&logo=git\&logoColor=f97316)
+![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge\&logo=github\&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-020617?style=for-the-badge\&logo=firebase\&logoColor=facc15)
+![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge\&logo=vercel\&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge\&logo=node.js\&logoColor=4ade80)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured projects
 
-### 🧠 SmartBite
-Mobile and web platform for comparing food prices near a university.  
-**Tech:** Ionic, Angular, Firebase, TypeScript
-
-### 🚌 Ruta593
-SaaS platform for bus cooperatives, including route management, ticket sales and administrative dashboards.  
-**Tech:** Angular, TypeScript, Firebase
-
-### 💼 Portfolio
-Personal portfolio website showcasing my frontend, UX/UI and software engineering experience.  
-**Tech:** React, TypeScript, CSS
+```bash
+~ $ ls featured-projects
+```
 
 ### 🚀 Programmers Loft
-Landing page for web services, focused on conversion, responsive design and modern visual presentation.  
-**Tech:** HTML, CSS, JavaScript
+
+Landing page for web services, focused on conversion, responsive design and modern visual presentation.
+
+**Tech:** HTML • CSS • JavaScript
+**Live:** https://programmers-loft.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
+### 💼 Portfolio
+
+Personal portfolio website with a terminal-inspired visual style.
+
+**Tech:** React • TypeScript • CSS
+**Live:** https://portfolio-cv-rad0x.vercel.app/
+
+---
+
+### 🧠 SmartBite
+
+Mobile and web platform for comparing food prices near a university.
+
+**Tech:** Ionic • Angular • Firebase • TypeScript
+
+---
+
+### 🚌 Ruta593
+
+SaaS platform for bus cooperatives, including route management, ticket sales and administrative dashboards.
+
+**Tech:** Angular • TypeScript • Firebase
+
+---
+
+## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xxrad0xx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=ffffff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxrad0xx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xxrad0xx&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=4ade80&icon_color=22d3ee&text_color=e5e7eb" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxrad0xx&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=4ade80&text_color=e5e7eb" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=xxrad0xx&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE" />
+  <img src="https://streak-stats.demolab.com?user=xxrad0xx&theme=dark&hide_border=true&background=020617&ring=4ADE80&fire=22D3EE&currStreakLabel=4ADE80&sideNums=E5E7EB&currStreakNum=E5E7EB&dates=94A3B8" />
 </p>
+
+---
+
+## 🧩 Current focus
+
+```bash
+~ $ cat current-focus.txt
+```
+
+```txt
+> Improving frontend architecture
+> Building cleaner and more reusable UI components
+> Practicing UX/UI design and responsive layouts
+> Creating real-world web applications with Angular, React and TypeScript
+```
 
 ---
 
@@ -84,11 +146,21 @@ Landing page for web services, focused on conversion, responsive design and mode
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raulortizdev">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee" />
   </a>
-  <a href="https://programersloftstudio.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://portfolio-cv-rad0x.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=4ade80" />
+  </a>
+  <a href="https://programmers-loft.vercel.app/">
+    <img src="https://img.shields.io/badge/Programmers_Loft-020617?style=for-the-badge&logo=vercel&logoColor=a855f7" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6366F1,100:22D3EE&height=120&section=footer" width="100%" />
+---
+
+```bash
+~ $ exit
+Thanks for visiting my GitHub profile.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:052e2b,100:0f172a&height=80&section=footer" width="100%" />
