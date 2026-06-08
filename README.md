@@ -110,20 +110,37 @@ SaaS platform for bus cooperatives, including route management, ticket sales and
 
 ---
 
+
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xxrad0xx&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=4ade80&icon_color=22d3ee&text_color=e5e7eb" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxrad0xx&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=4ade80&text_color=e5e7eb" />
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=xxrad0xx&show_icons=true&hide_border=true&theme=dark&bg_color=020617&title_color=4ade80&text_color=e5e7eb&icon_color=22d3ee&include_all_commits=true&count_private=true" 
+    alt="Raul Ortiz GitHub stats" 
+  />
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxrad0xx&layout=compact&hide_border=true&theme=dark&bg_color=020617&title_color=4ade80&text_color=e5e7eb" 
+    alt="Raul Ortiz most used languages" 
+  />
 </p>
 
+
+
 ---
+
 
 ## 🔥 Contribution streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=xxrad0xx&theme=dark&hide_border=true&background=020617&ring=4ADE80&fire=22D3EE&currStreakLabel=4ADE80&sideNums=E5E7EB&currStreakNum=E5E7EB&dates=94A3B8" />
+  <img 
+    src="https://streak-stats.demolab.com?user=xxrad0xx&theme=dark&hide_border=true&background=020617&ring=4ADE80&fire=22D3EE&currStreakLabel=4ADE80&sideNums=E5E7EB&currStreakNum=E5E7EB&dates=94A3B8" 
+    alt="Raul Ortiz GitHub contribution streak" 
+  />
 </p>
+
+
 
 ---
 
